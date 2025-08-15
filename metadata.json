@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Copy of Copy of Copy of Press Call",
+  "description": "A real-time chat and video/voice calling application built with React and Firebase, designed to connect you with friends seamlessly.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
